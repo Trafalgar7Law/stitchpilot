@@ -1,0 +1,19 @@
+{
+  "name": "stitchpilot",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "framer-motion": "^10.12.16",
+    "lucide-react": "^0.263.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
